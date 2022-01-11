@@ -1,4 +1,4 @@
-# Dekatrian
+# DekatrianDateConversion
 Libs for implementing Dekatrian Calendar date conversions
 
 Current included libs:
