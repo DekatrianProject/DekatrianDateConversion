@@ -2,4 +2,4 @@
 Libs for implementing Dekatrian Calendar date conversions
 
 Current included libs:
-- Python, conversion between Dekatrian and Gregorian calendars
+- date_convert.py => Python, conversion between Dekatrian and Gregorian calendars
